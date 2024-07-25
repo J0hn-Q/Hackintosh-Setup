@@ -54,7 +54,7 @@ Search Up the Kexts if you don't know where to find them!
 ## Guides:
 ### [Dortania's OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-[perez987 - OpenCore and UEFI Secure Boot: The Easy Way](https://github.com/perez987/OpenCore-and-UEFI-Secure-Boot/blob/main/guide/The%20easy%20way.md)
+[perez987 - OpenCore and UEFI Secure Boot: The Easy Way](https://github.com/perez987/OpenCore-and-UEFI-Secure-Boot/blob/main/guide/The%20easy%20way.md) (I didn't use this guide but it is the same thing I did)
 
 [profzei - Enable BIOS Secure Boot with OpenCore](https://github.com/profzei/Matebook-X-Pro-2018/wiki/Enable-BIOS-Secure-Boot-with-OpenCore)
 
